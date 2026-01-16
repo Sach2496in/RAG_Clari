@@ -1,0 +1,11 @@
+<div #chatContainer class="chat-container">
+  <div *ngIf="latestQuestion">
+    <p class="question">{{ latestQuestion }}</p>
+  </div>
+</div>
+
+<!-- Input field and button -->
+<div class="input-container">
+  <input type="text" [(ngModel)]="userInput" (keyup.enter)="askQuestion()" placeholder="Ask something...">
+  <button (click)="askQuestion()">Ask</button>
+</div>

@@ -1,0 +1,29 @@
+<header>
+    <nav>
+      <!-- <div class="logo">
+        <img src="https://nav-assets.zuora.life/img/zuora-wordmark.svg">
+      </div> -->
+
+      <div style="text-align: center; font-family: Arial, sans-serif;">
+        <img src="../../assets/clari.png" alt="Zuora Logo" style="max-width: 200px;width: 50px;">
+        <div style="font-size: 14px; color: #555;">
+          Clari Support Assist, AI Powered by <strong style="color: #c41230;">Estuate</strong>
+        </div>
+      </div>
+      <ul>
+        <li *ngIf="!showNavbarButtons()">
+            <button class="login-btn">Sign Up</button>   
+            </li>
+            <li *ngIf="!showNavbarButtons()">
+              <button class="login-btn">Subscription</button>   
+              </li>
+              <li *ngIf="showNavbarButtons()">
+                <button class="login-btn-user">Username</button>   
+                </li>
+                <li *ngIf="showNavbarButtons()">
+                  <button [routerLink]="['/login']" class="login-btn">Log Out</button>   
+                  </li>
+      </ul>
+    </nav>
+  </header>
+  

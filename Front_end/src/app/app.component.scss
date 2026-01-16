@@ -1,0 +1,134 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: minmax(320px, 1fr) 3fr minmax(320px, 1fr); 
+    gap: 10px; /* Adds space between grid items */
+    overflow-y: auto;
+    height: 660px;
+  }
+  
+  .grid-item {
+    background-color: #ffff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Border shadow effect */
+    transition: box-shadow 0.3s ease; /* Smooth transition for shadow on hover */
+     overflow-y: auto;
+     flex-direction: column-reverse;
+  }
+
+  .grid-item:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Stronger shadow on hover */
+  }
+
+  .chat-container {
+    max-width: 850px;
+    margin: 50px auto;
+    padding: 10px 15px 10px 10px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    bottom: -48px;
+    right: 330px;
+    width: 100%;
+  }
+  
+  .chat-textarea {
+    width: 97%;
+    height: 50px; /* Adjust height as needed */
+    padding: 15px;
+    font-size: 16px;
+    font-family: 'Inter', 'Helvetica', 'Arial', sans-serif;
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 8px; /* Rounded corners */
+    background-color: #f9f9f9; /* Light background */
+    resize: none; /* Disable resizing */
+    transition: all 0.3s ease; /* Smooth transition for focus effect */
+    
+  }
+  
+  .chat-textarea:focus {
+    outline: none; /* Remove default focus outline */
+    border-color: #00d2b9; /* Border color on focus (like ChatGPT's blue) */
+    background-color: #f9f9f9; /* Lighter background on focus */
+    box-shadow: 0 0 8px rgba(0, 120, 212, 0.3); /* Subtle blue glow */
+  }
+  
+  .chat-textarea::placeholder {
+    color: #888; /* Light gray placeholder text */
+    font-style: italic;
+  }
+
+  .send-button {
+    position: absolute;
+    bottom: 20px;
+    right: 11px;
+    padding: 0px 5px;
+    background-color: #00d2b9;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+
+  .user-message, .ai-message {
+    max-width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    word-wrap: break-word;
+  }
+  
+  .user-message {
+    background: #00d2b9;
+    color: white;
+    align-self: flex-end;
+  }
+  
+  .ai-message {
+    background: #ffff;
+    color: black;
+    align-self: flex-start;
+  }
+
+  .chat-box {
+    flex: 1;
+    overflow-y: auto;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  li:hover{
+    background-color: #60676d;
+    color: black;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 10%;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    word-wrap: break-word;
+  }
+
+  .question-list {
+    margin-left: 20px;
+    font-family: Helvetica;
+    //font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+
+  }
+
+  .question-list:hover{
+    font-weight: 700;
+    font-size: 16px;
+    cursor: pointer;
+    //background-color: #06a55e;
+    //border: 1px solid #000;
+    border-radius: 20px;
+    color: #000;
+  }

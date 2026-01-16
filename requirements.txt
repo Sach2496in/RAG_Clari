@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+typer
+openai
+pydantic
+python-dotenv
+phidata
+pgvector
+python-docx
+sqlalchemy
+psycopg
+psycopg[c]
+psycopg[binary]
+
