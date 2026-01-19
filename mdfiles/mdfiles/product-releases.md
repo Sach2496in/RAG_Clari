@@ -1,0 +1,49 @@
+[Skip to main content](https://navigator.stanford.edu/about/product-releases#main-content)[Stanford University](https://www.stanford.edu/)
+## Product Releases
+We’re always improving your class search experience. Browse what’s new with Navigate Classes quarter-by-quarter.
+## Summer 2025
+  * In preparation for the 2025-26 academic year, we have expanded available class information. Now, you can view:
+    * Instructions for classes with variable credits
+    * Course topic descriptions
+    * Class titles (in addition to course titles)
+
+
+## Spring 2025
+  * Added improvements to improve API stability and speed
+  * Resolved bug fixes
+
+
+## Winter 2025
+  * UI adjustments to hover overs including Mega Menu display and Tool Tips displays
+  * Pagination updates allowing user to see the total number of pages and jump forward and back easier
+  * Added messaging when 0 results are returned
+  * Added improvements to improve API stability and speed
+  * Addressed accessibility issues
+  * Resolved bug fixes
+
+
+## Fall 2024
+  * Added ability to filter by Language of Instruction
+  * Added ability to filter by Department
+  * Added ability to clearly display if a class requires an application
+  * Added new menu option to browse courses in the area of Well Being
+  * Fixed the ability to share a page URL with pre-selected filters
+  * Added improvements to the mobile experience
+  * Addressed accessibility issues
+  * Resolved bug fixes
+
+
+## Summer 2024
+  * Updated class sort based on course number, so classes sort in chronological order (e.g. Math 5 before Math 21)
+  * Added ability to filter by campus location
+  * Added ability to search across terms from different academic years through the term selector. _Please note this only allows for AY 23-24 and AY 24-25. A full archive is on our roadmap._
+  * Improved error messaging when the website is not working as expected
+  * Improved mobile functionality
+  * Addressed accessibility issues
+  * Resolved bug fixes
+
+
+## Spring 2024
+  * Inital release of Navigate Classes as Stanford’s new class search experience: April 1, 2024
+
+
