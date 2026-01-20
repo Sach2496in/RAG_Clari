@@ -8,9 +8,6 @@ phidata
 pgvector
 python-docx
 sqlalchemy
-psycopg
-psycopg[c]
 psycopg[binary]
 gunicorn
-psycopg2
 
