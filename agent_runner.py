@@ -6,14 +6,14 @@ from phi.knowledge.docx import DocxKnowledgeBase
 from phi.knowledge.json import JSONKnowledgeBase
 from phi.knowledge.text import TextKnowledgeBase
 from phi.vectordb.pgvector import PgVector2, SearchType, PgVector
-from knowledge_config import db_url, CSV_PATH, WORD_PATH, COLLECTION_CSV, COLLECTION_WORD, KNOWLEDGE_FOLDER, COLLECTION_JSON,COLLECTION_MD, COMBINED_KB
+from knowledge_config import db_url, COLLECTION_CSV, COLLECTION_WORD, KNOWLEDGE_FOLDER, COLLECTION_JSON,COLLECTION_MD, COMBINED_KB
 from logger import logger
 
 # Validate paths
-if not os.path.exists(CSV_PATH):
-    raise FileNotFoundError(f"CSV file not found at {CSV_PATH}")
-if not os.path.exists(WORD_PATH):
-    raise FileNotFoundError(f"Word file not found at {WORD_PATH}")
+# if not os.path.exists(CSV_PATH):
+#     raise FileNotFoundError(f"CSV file not found at {CSV_PATH}")
+# if not os.path.exists(WORD_PATH):
+#     raise FileNotFoundError(f"Word file not found at {WORD_PATH}")
 if not os.path.exists(KNOWLEDGE_FOLDER):
     raise FileNotFoundError(f"Knowledge folder not found at {KNOWLEDGE_FOLDER}")
 
