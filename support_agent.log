@@ -996,3 +996,28 @@ DETAIL:  Key (id)=(admission_1) already exists.
 2026-01-19 10:02:31,305 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 2026-01-19 10:02:32,035 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 2026-01-19 10:02:32,169 [INFO] MD knowledge base loaded successfully.
+2026-01-19 10:04:40,296 [INFO] Received API request: can you tell me about AI course in Stanford?
+2026-01-19 10:04:40,303 [INFO] Running support query for: can you tell me about AI course in Stanford?
+2026-01-19 10:04:42,357 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-19 10:04:43,194 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-19 10:04:47,226 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-19 10:04:48,791 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-19 10:04:48,791 [INFO] Stanford agent run successful.
+2026-01-19 10:05:15,453 [INFO] Received API request: can you please tell me about navigate classes
+2026-01-19 10:05:15,454 [INFO] Running support query for: can you please tell me about navigate classes
+2026-01-19 10:05:17,875 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-19 10:05:18,744 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-19 10:05:25,159 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-19 10:05:27,491 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-19 10:05:27,506 [INFO] Stanford agent run successful.
+2026-01-20 10:18:55,376 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 10:18:56,818 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 10:18:57,739 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 10:18:58,561 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 10:18:59,691 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 10:19:00,465 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 10:19:01,538 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 10:19:02,244 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 10:19:02,961 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 10:19:04,390 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 10:19:04,537 [INFO] MD knowledge base loaded successfully.

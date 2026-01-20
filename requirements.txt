@@ -11,4 +11,5 @@ sqlalchemy
 psycopg
 psycopg[c]
 psycopg[binary]
+gunicorn
 

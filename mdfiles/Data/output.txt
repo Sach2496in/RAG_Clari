@@ -1,0 +1,1206 @@
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3140
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 06
+Units: 3 - 5
+Class#: 3140
+Winter 2026
+Open
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: D'Amico, S.
+Enrollment Status
+Open Seats: 998
+Enrolled: 1
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3136
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 02
+Units: 3 - 5
+Class#: 3136
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Arya, M.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3150
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 16
+Units: 3 - 5
+Class#: 3150
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Khuri-Yakub, B.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/30247
+
+Discover Classes
+Introduction to Applied Aerodynamics
+AA 102
+Lecture: 01
+Units: 3
+Class#: 30247
+Winter 2026
+Open
+Introduction to Applied Aerodynamics
+Department of Aeronautics and Astronautics
+Lecture
+1/5/26 - 3/13/26
+Mon, Wed
+5:30 PM - 6:50 PM
+320-220
+Instructor: Peters, N.
+Enrollment Status
+Open Seats: 10
+Enrolled: 20
+Capacity: 30
+Waitlist: 0
+Waitlist Max: 5
+Course Description
+
+This course explores the fundamentals of the behavior of aerodynamic surfaces (airfoils, wings, bodies) immersed in a fluid across all speed regimes (from subsonic to supersonic/hypersonic). We will cover airfoil theory (subsonic and supersonic), wing theory, and introduction to viscous flows and both laminar and turbulent boundary layers, and the topic of flow transition. At the completion of this course, students will be able to understand and predict the forces and movements generated by aerodynamic configurations of interest. Assignments require a basic introductory knowledge of MATLAB or another suitable programming language.
+
+Additional Information
+Requisites
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+In Person
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Thu, March 19th
+7:00 PM - 10:00 PM
+CODAB90
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3142
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 08
+Units: 3 - 5
+Class#: 3142
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Elschot, S.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3154
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 20
+Units: 3 - 5
+Class#: 3154
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Lele, S.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3145
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 11
+Units: 3 - 5
+Class#: 3145
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Hanson, R.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3137
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 03
+Units: 3 - 5
+Class#: 3137
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Boyd, S.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3151
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 17
+Units: 3 - 5
+Class#: 3151
+Winter 2026
+Open
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Kochenderfer, M.
+Enrollment Status
+Open Seats: 998
+Enrolled: 1
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3153
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 19
+Units: 3 - 5
+Class#: 3153
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Lall, S.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3139
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 05
+Units: 3 - 5
+Class#: 3139
+Winter 2026
+Open
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Chang, F.
+Enrollment Status
+Open Seats: 998
+Enrolled: 1
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3149
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 15
+Units: 3 - 5
+Class#: 3149
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Khatib, O.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3146
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 12
+Units: 3 - 5
+Class#: 3146
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Hara, K.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3152
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 18
+Units: 3 - 5
+Class#: 3152
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Kroo, I.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3148
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 14
+Units: 3 - 5
+Class#: 3148
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Kenny, T.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/2351
+
+Discover Classes
+Spacecraft Design
+AA 136A
+Lecture: 01
+Units: 3
+Class#: 2351
+Winter 2026
+Open
+Spacecraft Design
+Department of Aeronautics and Astronautics
+Lecture
+1/5/26 - 3/13/26
+Tues, Thurs
+3:00 PM - 4:50 PM
+Skilling 190
+Instructor: Lee, N.
+Enrollment Status
+Open Seats: 10
+Enrolled: 10
+Capacity: 20
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+Space Capstone I. This course is focused on the design and implementation of uncrewed spacecraft with an emphasis on nano-satellites. Practical laboratory exercises will introduce students to the fundamentals of flight software, electronics, and mechanical design while building on a flight-proven spacecraft architecture. Students will work in teams to develop and present their design of a spacecraft subsystem. Required for Aero/Astro majors. For all other majors consent of instructor is required. Enrollment priority will be given to Aero/Astro seniors.
+
+Additional Information
+Requisites
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+In Person
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/30249
+
+Discover Classes
+Flight Mechanics & Controls
+AA 173
+Lecture: 01
+Units: 3
+Class#: 30249
+Winter 2026
+Open
+Flight Mechanics & Controls
+Department of Aeronautics and Astronautics
+Lecture
+1/5/26 - 3/13/26
+Mon, Wed
+1:30 PM - 2:50 PM
+60-108
+Instructor: Gao, G.
+Enrollment Status
+Open Seats: 13
+Enrolled: 7
+Capacity: 20
+Waitlist: 0
+Waitlist Max: 5
+Course Description
+
+Aircraft flight dynamics, stability, and their control system design; frame transformations, non-linear equations of motion for aircraft; linearization of longitudinal and lateral-directional dynamics; aircraft static longitudinal and lateral/directional stability and control; observability and controllability; PID feedback control; Prerequisites: E15, E105, AA100 and familiarity with MATLAB.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+In Person
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Wed, March 18th
+3:30 PM - 6:30 PM
+60-108
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3141
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 07
+Units: 3 - 5
+Class#: 3141
+Winter 2026
+Open
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Lee, N.
+Enrollment Status
+Open Seats: 998
+Enrolled: 1
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/27712
+
+Discover Classes
+Aircraft Design
+AA 146A
+Laboratory: 01
+Units: 3
+Class#: 27712
+Winter 2026
+Open
+Aircraft Design
+Department of Aeronautics and Astronautics
+Laboratory
+1/5/26 - 3/13/26
+Mon, Wed
+11:30 AM - 1:20 PM
+Skilling 190
+Instructor: Sinsay, J.
+Enrollment Status
+Open Seats: 7
+Enrolled: 8
+Capacity: 15
+Waitlist: 0
+Waitlist Max: 5
+Course Description
+
+Air Capstone I. Required for Aero/Astro majors. This capstone design class allows students to apply knowledge from prior classes in a way that emphasizes the interactions between disciplines and demonstrates how theoretical topics are synthesized in the practical design of an aircraft concept. Prerequisites are MATH 19, 20, 21, CME 100, CME 102 or MATH 51, 53. CME 104 or Math 52 recommended. Elementary physics, and AA100 or equivalent classes. Additional required AA courses dealing with aero, structures, and controls.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+In Person
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/2413
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 01
+Units: 3 - 5
+Class#: 2413
+Winter 2026
+Open
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Alonso, J.
+Enrollment Status
+Open Seats: 30
+Enrolled: 0
+Capacity: 30
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3143
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 09
+Units: 3 - 5
+Class#: 3143
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Farhat, C.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3144
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 10
+Units: 3 - 5
+Class#: 3144
+Winter 2026
+Open
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Gao, G.
+Enrollment Status
+Open Seats: 997
+Enrolled: 2
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3147
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 13
+Units: 3 - 5
+Class#: 3147
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Hesselink, L.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
+========================================================================================================================
+URL: https://navigator.stanford.edu/classes/1264/3138
+
+Discover Classes
+Directed Research and Writing in Aero/Astro
+AA 190
+Individual Study: 04
+Units: 3 - 5
+Class#: 3138
+Winter 2026
+Not Specified
+Directed Research and Writing in Aero/Astro
+Department of Aeronautics and Astronautics
+Individual Study
+1/5/26 - 3/13/26
+Not applicable
+Not applicable
+Not applicable
+Instructor: Cappelli, M.
+Enrollment Status
+Open Seats: Not Specified
+Enrolled: 0
+Capacity: Not Specified
+Waitlist: 0
+Waitlist Max: No waitlist
+Course Description
+
+For undergraduates. Experimental or theoretical work under faculty direction, and emphasizing development of research and communication skills. Written report(s) and letter grade required; if this is not appropriate, enroll in 199. Consult faculty in area of interest for appropriate topics, involving one of the graduate research groups or other special projects. May be repeated for credit. Prerequisite: consent of instructor.
+
+Additional Information
+Rules
+Resources
+Instructors
+Grading basis
+If you are planning to use this class toward degree requirements, you will likely need to enroll for a letter grade. Go to the Student Services website for details about grading basis types.
+Letter (ABCD/NP)
+Class level
+Class level indicates the designation of a class for a particular level of student.
+Undergraduate
+Instructional mode
+Instructional mode indicates the primary manner in which the class is delivered, including how students receive instruction and participate in activities.
+Independent Studies
+Final exam
+Final exam schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held based on the Final Exam Schedule published on the Student Services website.
+Exam not scheduled during Final Exams week
+Gen Ed Requirement(s)
+The successful completion of this class may meet general education requirements.
+
+None
+
