@@ -8,14 +8,17 @@ from phi.knowledge.text import TextKnowledgeBase
 from phi.vectordb.pgvector import PgVector2, SearchType, PgVector
 from knowledge_config import db_url, COLLECTION_CSV, COLLECTION_WORD, KNOWLEDGE_FOLDER, COLLECTION_JSON,COLLECTION_MD, COMBINED_KB
 from logger import logger
+from pathlib import Path
 
 # Validate paths
 # if not os.path.exists(CSV_PATH):
 #     raise FileNotFoundError(f"CSV file not found at {CSV_PATH}")
 # if not os.path.exists(WORD_PATH):
 #     raise FileNotFoundError(f"Word file not found at {WORD_PATH}")
-if not os.path.exists(KNOWLEDGE_FOLDER):
+if not Path(KNOWLEDGE_FOLDER).exists():
     raise FileNotFoundError(f"Knowledge folder not found at {KNOWLEDGE_FOLDER}")
+# if not os.path.exists(KNOWLEDGE_FOLDER):
+#     raise FileNotFoundError(f"Knowledge folder not found at {KNOWLEDGE_FOLDER}")
 
 
 # Initialize knowledge bases
@@ -100,9 +103,17 @@ except Exception as e:
 #     with open("word_agent_instructions.txt", "r", encoding="utf-8") as f:
 #         return f.read()
     
+# def Stanford_chatbot_instructions():
+#     with open("Stanford_chatbot_agent_instructions.txt", "r", encoding="utf-8") as f:
+#         return f.read()
+
+
+BASE_DIR = Path(__file__).resolve().parent
+
 def Stanford_chatbot_instructions():
-    with open("Stanford_chatbot_agent_instructions.txt", "r", encoding="utf-8") as f:
-        return f.read()
+    return (BASE_DIR / "Stanford_chatbot_agent_instructions.txt").read_text(
+        encoding="utf-8"
+    )
     
 
 

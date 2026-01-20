@@ -1103,3 +1103,31 @@ DETAIL:  Key (id)=(admission_1) already exists.
 2026-01-20 15:26:52,297 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
 2026-01-20 15:26:52,297 [INFO] Stanford agent run successful.
 2026-01-20 15:34:47,490 [INFO] MD knowledge base loaded successfully.
+2026-01-20 16:08:23,257 [INFO] Received API request: give me the list of course that are related to aerospace
+2026-01-20 16:08:23,257 [INFO] Running support query for: give me the list of course that are related to aerospace
+2026-01-20 16:08:28,540 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 16:08:30,573 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 16:08:39,790 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 16:08:41,148 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-20 16:08:41,149 [INFO] Stanford agent run successful.
+2026-01-20 16:10:30,190 [INFO] Received API request: so can you point me to a class where i can get enough knowledge on applied science?
+2026-01-20 16:10:30,190 [INFO] Running support query for: so can you point me to a class where i can get enough knowledge on applied science?
+2026-01-20 16:10:31,433 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 16:10:32,395 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 16:10:40,105 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 16:10:42,112 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-20 16:10:42,114 [INFO] Stanford agent run successful.
+2026-01-20 16:16:57,026 [INFO] Received API request: Can you list out the courses realed to aerospace?.
+2026-01-20 16:16:57,026 [INFO] Running support query for: Can you list out the courses realed to aerospace?.
+2026-01-20 16:16:58,575 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 16:16:59,349 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 16:17:10,073 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 16:17:12,557 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-20 16:17:12,557 [INFO] Stanford agent run successful.
+2026-01-20 16:20:21,451 [INFO] Received API request: can you list out the courses related to flight mechanics.
+2026-01-20 16:20:21,452 [INFO] Running support query for: can you list out the courses related to flight mechanics.
+2026-01-20 16:20:24,809 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 16:20:25,775 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 16:20:33,341 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 16:20:34,641 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-20 16:20:34,641 [INFO] Stanford agent run successful.
