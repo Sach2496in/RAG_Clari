@@ -9,4 +9,4 @@ pgvector
 python-docx
 sqlalchemy
 gunicorn
-psycopg2
+psycopg[binary]
