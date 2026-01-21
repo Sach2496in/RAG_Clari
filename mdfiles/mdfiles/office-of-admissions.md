@@ -1,0 +1,38 @@
+logo-footer logo-full logo-stanford-university logo menu-close menu Close Icon Icon with an X to denote closing. Play Icon Play icon in a circular border.
+[ Skip to main content ](https://law.stanford.edu/office-of-admissions/#main-content)
+Each year Stanford Law receives about 5,000 applications from potential students; each year approximately 180 join our community. Students come from across the United States and around the globe—from diverse careers in the public and private sector, small liberal arts colleges and institutes of technology, military academies and academies of art, theological seminaries and medical schools, distinguished state universities, and centuries-old private universities.
+In selecting students for the JD program, two criteria dominate the decision-making process: the individual applicant’s intellectual ability and aptitude, and the overall diversity of the class admitted. The first criterion, aptitude, properly recognizes that the lawyer’s work calls particularly for the exercise of analytic and other intellectual abilities—facility with words, concepts and perceptions of personal relationships. The second criterion, diversity, contemplates that diversity will improve the quality of education at the law school by enabling the exchange of differing views in and out of class, and will improve the school’s training of lawyers who take the lead in representing diverse groups and interests in a wide variety of contexts, in the private and public sectors.
+5,000 
+Applications received by Stanford Law each year. 
+[ Office of the Registrar  ](https://law.stanford.edu/office-of-the-registrar/)
+[ Office of Financial Aid  ](https://law.stanford.edu/office-of-financial-aid/)
+~180 
+Admitted students each year. 
+## Consider What Counts
+We invite you to consider what counts in your search for a law school and to imagine how Stanford Law’s strengths might shape your future.
+[ Learn More ](https://law.stanford.edu/consider-what-counts/)
+## Discover SLS
+Discover the unmatched advantages that distinguish Stanford Law School.
+[ Learn More ](https://law.stanford.edu/discover-sls/)
+PreviousNext
+## Contact Information
+###  Vanessa Cordova 
+  * Admissions Officer
+
+[ View Profile  : Vanessa Cordova ](https://law.stanford.edu/vanessa-cordova/)
+###  Faye Deal 
+  * Associate Dean for Admissions and Financial Aid
+
+[ View Profile  : Faye Deal ](https://law.stanford.edu/faye-deal/)
+###  Megan Fernandez 
+  * Admissions Specialist, Office of Admissions
+
+[ View Profile  : Megan Fernandez ](https://law.stanford.edu/megan-fernandez/)
+###  Hsinyun Shen 
+  * Director of JD Admissions
+
+[ View Profile  : Hsinyun Shen ](https://law.stanford.edu/hsinyun-shen/)
+**Address:** Office of Admissions Stanford Law School Crown Quadrangle 559 Nathan Abbott Way, Room 103 Stanford, CA 94305-8610
+**Email:** admissions@law.stanford.edu
+**Phone:** 650 723.4985
+## Related Links

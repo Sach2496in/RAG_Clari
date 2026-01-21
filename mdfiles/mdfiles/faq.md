@@ -1,0 +1,20 @@
+[Skip to main content](https://navigator.stanford.edu/about/faq#main-content)[Stanford University](https://www.stanford.edu/)
+## Frequently Asked Questions
+What is Navigate Classes?
+Navigate Classes is the new and improved class search experience, designed for and by students. It empowers students with more ways to discover Stanford’s incredibly rich class offerings through expanded filters, a powerful search feature, and a design strategy to encourage exploration.
+Led by Student & Academic Services, we launched this new application April 1, 2024 as a minimum viable product (MVP), which means it is the first iteration of the product. We will continue to develop and release additional features and functionality over time and make improvements based on ongoing feedback from our Stanford community.
+Navigate Classes will eventually replace Explore Courses, a student-developed Stanford application that’s more than 12 years old.
+Can I still use Explore Courses?
+Yes, you can still use Explore Courses to search for and find classes, but we encourage you to use Navigate Classes instead. Navigate Classes will eventually replace Explore Courses, a student-developed Stanford application that’s more than 12 years old.
+How accurate is enrollment data in Navigate Classes?
+Enrollment data in Navigate Classes is real-time or nearly real time, depending on your view. Enrollment data displayed from the homepage on the cards (which we call class bites) and the expanded pop up windows (which we call class snacks) is updated every two minutes. Enrollment data displayed on the detailed class pages (which we call class meals) is updated in real-time.
+Why are so many classes repeated in search results?
+We are continuing to refine the search features and the results returned, including how classes are grouped and ordered. Stay tuned for improvements.
+When will class syllabi be available?
+To make Navigate Classes even more valuable, we plan to add class syllabi. To do this, we must first add authentication to the application to ensure class syllabi information can only be accessed to students who log in. This is on our enhancement roadmap. Stay tuned for more information.
+When will class evaluations be available?
+To make Navigate Classes even more valuable, we plan to add class evaluations. To do this, we must first add authentication to the application to ensure class evaluation information can only be accessed to students who log in. This is on our enhancement roadmap. Stay tuned for more information.
+Why can’t I view class offerings from past years?
+Our initial release includes the class offerings for the current 2023-24 academic year. We plan to make an archive of class offerings from past years available, and continue to add class offerings for future academic years to the application. This is on our enhancement roadmap. Stay tuned for more information.
+How can I participate in testing new features and functionality?
+We design experiences with and for our community. If you're interested in helping us test new features and functionality in development, please [ sign up to be a tester through this Google form](https://forms.gle/o4GiLkXfsX2hkC8U7). We will reach out to you when we have opportunities to test.
