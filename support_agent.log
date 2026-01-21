@@ -1131,3 +1131,315 @@ DETAIL:  Key (id)=(admission_1) already exists.
 2026-01-20 16:20:33,341 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2026-01-20 16:20:34,641 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
 2026-01-20 16:20:34,641 [INFO] Stanford agent run successful.
+2026-01-20 16:58:37,755 [INFO] MD knowledge base loaded successfully.
+2026-01-20 17:14:07,418 [INFO] Received API request: Can you list out the courses realed to aerospace?.
+
+2026-01-20 17:14:07,436 [INFO] Running support query for: Can you list out the courses realed to aerospace?.
+
+2026-01-20 17:14:11,309 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 17:14:13,035 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 17:14:22,885 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 17:14:23,951 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-20 17:14:23,951 [INFO] Stanford agent run successful.
+2026-01-20 17:15:08,276 [INFO] Received API request: Can you list out the courses realed to aerospace?.
+2026-01-20 17:15:08,276 [INFO] Running support query for: Can you list out the courses realed to aerospace?.
+2026-01-20 17:15:09,735 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 17:15:10,659 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-20 17:15:25,599 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 17:15:28,083 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-20 17:15:28,083 [INFO] Stanford agent run successful.
+2026-01-21 10:33:41,048 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:41,755 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:42,567 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:43,273 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:43,750 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:45,185 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:45,731 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:46,202 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:46,684 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:47,202 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:47,824 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:48,301 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:48,770 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:49,207 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:49,986 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:50,497 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:50,965 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:51,452 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:52,017 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:52,822 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:53,343 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:54,116 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:55,022 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:55,946 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:56,685 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:57,346 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:58,218 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:58,740 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:59,142 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:33:59,886 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:00,422 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:01,334 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:01,865 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:02,531 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:03,102 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:03,727 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:04,295 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:04,743 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:05,247 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:05,753 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:06,299 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:06,891 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:07,384 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:07,979 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:08,585 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:09,439 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:10,641 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:11,041 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:11,796 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:12,348 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:13,048 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:13,670 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:14,306 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:15,050 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:16,463 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:17,483 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:18,993 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:19,673 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:20,576 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:21,028 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:21,942 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:22,609 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:23,099 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:23,851 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:24,420 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:25,050 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:26,116 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:26,802 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:28,397 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:29,038 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:30,186 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:30,748 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:31,396 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:32,001 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:32,442 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:32,920 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:33,344 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:33,997 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:34,440 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:35,088 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:35,701 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:36,171 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:36,764 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:34:36,942 [ERROR] Failed to load MD knowledge base: (psycopg.errors.UniqueViolation) duplicate key value violates unique constraint "MD_knowledge_pkey"
+DETAIL:  Key (id)=(output_1) already exists.
+[SQL: INSERT INTO ai."MD_knowledge" (id, name, meta_data, filters, content, embedding, usage, content_hash) VALUES (%(id)s::VARCHAR, %(name)s::VARCHAR, %(meta_data)s::JSONB, %(filters)s::JSONB, %(content)s::VARCHAR, %(embedding)s, %(usage)s::JSONB, %(content_hash)s::VARCHAR)]
+[parameters: [{'id': 'output_1', 'name': 'output', 'meta_data': Jsonb({'chunk': 1, 'chunk_size': 4998}), 'filters': Jsonb(None), 'content': "======================================================================================================================== URL: https://navigator.stanf ... (4700 characters truncated) ... ary manner in which the class is delivered, including how students receive instruction and participate in activities. In Person Final exam Final exam", 'embedding': '[-0.030945708975195885,0.03462900593876839,0.0368027500808239,-0.008611964993178844,-0.04489392414689064,0.00990262720733881,-0.004736203234642744,0. ... (32396 characters truncated) ... 0.02003168687224388,-0.00819683913141489,-0.007630759384483099,-0.07197519391775131,0.008453462272882462,-0.006857116241008043,-0.022371483966708183]', 'usage': Jsonb({'prompt_tokens': 981, 'total_token ... (43 chars)), 'content_hash': 'f327419ca9343474e6829901f35795a6'}, {'id': 'output_2', 'name': 'output', 'meta_data': Jsonb({'chunk': 2, 'chunk_size': 4998}), 'filters': Jsonb(None), 'content': ' schedules for each term are one-week long based on a set schedule. If the final exam is not yet scheduled, you can project when it will be held base ... (4700 characters truncated) ... roll for a letter grade. Go to the Student Services website for details about grading basis types. Letter (ABCD/NP) Class level Class level indicates', 'embedding': '[-0.04333938658237457,0.01627081073820591,0.05556103214621544,-0.00801674835383892,0.0018883113516494632,-0.0022415006533265114,0.004946504253894091, ... (32377 characters truncated) ... .031473707407712936,-0.008513623848557472,-0.011887925677001476,-0.046157483011484146,0.02948620729148388,0.003407674143090844,-0.024458127096295357]', 'usage': Jsonb({'prompt_tokens': 1065, 'total_toke ... (45 chars)), 'content_hash': '59dc42f923460beaf28648ba290b8320'}, {'id': 'output_3', 'name': 'output', 'meta_data': Jsonb({'chunk': 3, 'chunk_size': 4995}), 'filters': Jsonb(None), 'content': ' the designation of a class for a particular level of student. Undergraduate Instructional mode Instructional mode indicates the primary manner in wh ... (4697 characters truncated) ... y, you may enroll in this class through any of these offerings. To make your selection, consider which meets your program requirements or which title', 'embedding': '[-0.06955733895301819,0.01299020554870367,0.029806340113282204,-0.023162757977843285,-0.0019405889324843884,-0.00897090695798397,-0.01064906828105449 ... (32373 characters truncated) ... 704,0.00607038289308548,-0.010580007918179035,-0.0128382733091712,-0.028452761471271515,0.004109076224267483,0.01053166575729847,-0.0217815563082695]', 'usage': Jsonb({'prompt_tokens': 1135, 'total_toke ... (45 chars)), 'content_hash': '454d8d7c198ae8110adab4dcd8ab7989'}, {'id': 'output_4', 'name': 'output', 'meta_data': Jsonb({'chunk': 4, 'chunk_size': 4996}), 'filters': Jsonb(None), 'content': ' youâ€™d prefer on your transcript. Total Capacity:22/24 Combined Waitlist Max:1/5 Class ID Enrolled Waitlist ARTHIST 210 | 01 6/24 1/10 ITALIAN 140  ... (4698 characters truncated) ... t be taken for at least 4 units to get WAYs credit. Students also have an option to take the class for 2 units as a speaker series/seminar where they', 'embedding': '[-0.02834211103618145,0.03867688402533531,0.06132066249847412,0.011837879195809364,-0.049206092953681946,-0.008390461094677448,-0.004984173458069563, ... (32408 characters truncated) ... 019951649010181427,-0.0060049379244446754,-0.004169057123363018,-0.03221578150987625,0.01715482957661152,0.003690456971526146,-0.0014358008047565818]', 'usage': Jsonb({'prompt_tokens': 1047, 'total_toke ... (45 chars)), 'content_hash': 'e9ee2e9febbf3185853c7bf313d8dc0c'}, {'id': 'output_5', 'name': 'output', 'meta_data': Jsonb({'chunk': 5, 'chunk_size': 4999}), 'filters': Jsonb(None), 'content': ' attend half the class sessions (or more) and complete short weekly assignments. In-person or asynchronous online instruction are available. First da ... (4701 characters truncated) ... x: Gender, Race, and Sexuality in Modern America AMSTUD 161 Lecture: 01 Units: 5 Class#: 8559 Winter 2026 Open The Politics of Sex: Gender, Race, and', 'embedding': '[-0.05801533907651901,0.028262384235858917,0.022343942895531654,0.01228989940136671,0.007405358366668224,0.0018741730600595474,-0.0013225158909335732 ... (32396 characters truncated) ... 012063390575349331,0.0035693314857780933,-0.020648784935474396,-0.06482519954442978,0.011939176358282566,0.0009434798848815262,-0.026786426082253456]', 'usage': Jsonb({'prompt_tokens': 1024, 'total_toke ... (45 chars)), 'content_hash': '56a004b2efd151648b007680213fcfe6'}, {'id': 'output_6', 'name': 'output', 'meta_data': Jsonb({'chunk': 6, 'chunk_size': 4990}), 'filters': Jsonb(None), 'content': ' Sexuality in Modern America Department of American Studies Lecture, Discussion 1/5/26 - 3/13/26 Mon, Wed 4:30 PM - 5:50 PM 200-303 Instructor: Iker, ... (4692 characters truncated) ...  of a class for a particular level of student. Undergraduate Instructional mode Instructional mode indicates the primary manner in which the class is', 'embedding': '[-0.02784200757741928,0.03307223692536354,0.05419376119971275,0.005344863049685955,-0.02599351666867733,0.020677313208580017,0.0003600259660743177,-0 ... (32322 characters truncated) ... .004850499331951141,-0.005509651266038418,-0.014057133346796036,-0.04298817366361618,0.014393874444067478,0.006383744068443775,-0.028357867151498795]', 'usage': Jsonb({'prompt_tokens': 1055, 'total_toke ... (45 chars)), 'content_hash': '73756b80c8b11edb10f42211cbb8e5c5'}, {'id': 'output_7', 'name': 'output', 'meta_data': Jsonb({'chunk': 7, 'chunk_size': 4999}), 'filters': Jsonb(None), 'content': ' delivered, including how students receive instruction and participate in activities. In Person Final exam Final exam schedules for each term are one ... (4701 characters truncated) ... wn from broad themes in: whole Earth geodynamics, geohazards, natural resources, and environment. In each case the focus is on how the interpretation', 'embedding': '[-0.0422351136803627,0.02594732865691185,0.05444733053445816,-0.012502290308475494,-0.016084732487797737,-0.013967175967991352,-0.013974428176879883, ... (32419 characters truncated) ... 005054580047726631,-0.016853434965014458,-0.021813740953803062,-0.04713740572333336,-0.0018728054128587246,0.02425038255751133,-0.007019847631454468]', 'usage': Jsonb({'prompt_tokens': 1074, 'total_toke ... (45 chars)), 'content_hash': '152d87caa6f1fc54c6f5881f7f225956'}, {'id': 'output_8', 'name': 'output', 'meta_data': Jsonb({'chunk': 8, 'chunk_size': 4998}), 'filters': Jsonb(None), 'content': ' of a variety of geophysical measurements (e.g., gravity, seismology, electromagnetics, and remote sensing) can be used to provide fundamental insigh ... (4700 characters truncated) ... 26 Tues, Thurs 10:30 AM - 11:50 AM 200-203 Instructor: Campbell, J. Enrollment Status Open Seats: 996 Enrolled: 3 Capacity: Not Specified Waitlist: 0', 'embedding': '[-0.05039234459400177,0.039482660591602325,0.04690008983016014,-0.009553187526762486,-0.02865956351161003,-0.0029655287507921457,0.000592113647144287 ... (32409 characters truncated) ... 013752549886703491,-0.0025993473827838898,-0.03798185661435127,-0.05209517851471901,0.01448130514472723,-0.00012006874021608382,-0.02407056838274002]', 'usage': Jsonb({'prompt_tokens': 1021, 'total_toke ... (45 chars)), 'content_hash': '01eaf0a6283d7d5d09c741162e6f4e5e'}  ... displaying 10 of 83 total bound parameter sets ...  {'id': 'output_82', 'name': 'output', 'meta_data': Jsonb({'chunk': 82, 'chunk_size': 4999}), 'filters': Jsonb(None), 'content': ' Introduction to Statistical Methods: Precalculus Department of Statistics Lecture, Discussion 1/5/26 - 3/13/26 Mon, Tues, Wed, Thurs 9:30 AM - 10:20 ... (4701 characters truncated) ...  PM - 2:20 PM 0 0/0 DIS 23 8415 Tues 2:30 PM - 3:20 PM 0 0/0 DIS 24 8416 Tues 3:30 PM - 4:20 PM 0 0/0 DIS 25 8417 Thurs 11:30 AM - 12:20 PM 0 0/0 DIS', 'embedding': '[-0.04165976494550705,0.024006612598896027,0.031182123348116875,-0.0035146072041243315,-0.008443417027592659,-0.0015169588150456548,0.007739799097180 ... (32396 characters truncated) ... 36,0.03293768689036369,-0.004482952877879143,-0.02881350927054882,-0.04974092170596123,0.014148993417620659,0.0041137277148664,-0.016677837818861008]', 'usage': Jsonb({'prompt_tokens': 1468, 'total_toke ... (45 chars)), 'content_hash': 'b88698affa86d4e23d5db7079eb56510'}, {'id': 'output_83', 'name': 'output', 'meta_data': Jsonb({'chunk': 83, 'chunk_size': 3840}), 'filters': Jsonb(None), 'content': ' 26 8418 Thurs 12:30 PM - 1:20 PM 0 0/0 DIS 27 8419 Thurs 1:30 PM - 2:20 PM 0 0/0 DIS 28 8420 Thurs 2:30 PM - 3:20 PM 0 0/0 DIS 33 9392 Thurs 3:30 PM ... (3542 characters truncated) ... en Ed Requirement(s) The successful completion of this class may meet general education requirements. WAYS - Aesthetic and Interpretive Inquiry (AII)', 'embedding': '[-0.0743430107831955,0.02415059506893158,0.014435932971537113,-0.037225931882858276,-0.01862657070159912,-0.009422133676707745,0.010313324630260468,- ... (32384 characters truncated) ... .024300260469317436,-0.007149936631321907,0.0019694638904184103,-0.04416497424244881,0.02646360918879509,0.0005340342759154737,-0.013728422112762928]', 'usage': Jsonb({'prompt_tokens': 877, 'total_token ... (43 chars)), 'content_hash': '480cadb1d086fd3c629bb77028514167'}]]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2026-01-21 10:37:45,985 [INFO] MD knowledge base loaded successfully.
+2026-01-21 10:43:55,020 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:43:56,174 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:43:56,727 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:43:57,271 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:43:57,936 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:43:58,517 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:43:59,355 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:43:59,990 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:44:00,492 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:44:00,936 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 10:44:01,053 [INFO] MD knowledge base loaded successfully.
+2026-01-21 11:03:50,329 [INFO] Received API request: Hi can you tell me about classes of thermodynamics that have seats avaliable?
+2026-01-21 11:03:50,338 [INFO] Running support query for: Hi can you tell me about classes of thermodynamics that have seats avaliable?
+2026-01-21 11:03:52,704 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:03:53,782 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:03:58,237 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:04:00,206 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:04:00,209 [INFO] Stanford agent run successful.
+2026-01-21 11:04:22,252 [INFO] Received API request: Hi can you tell me about classes of aerodynamics that have seats avaliable?
+
+2026-01-21 11:04:22,252 [INFO] Running support query for: Hi can you tell me about classes of aerodynamics that have seats avaliable?
+
+2026-01-21 11:04:23,816 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:04:24,457 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:04:30,294 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:04:31,542 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:04:31,544 [INFO] Stanford agent run successful.
+2026-01-21 11:06:19,745 [INFO] Received API request: Hi can you tell me about classes of aerospace that have seats avaliable?
+
+2026-01-21 11:06:19,746 [INFO] Running support query for: Hi can you tell me about classes of aerospace that have seats avaliable?
+
+2026-01-21 11:06:22,321 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:06:23,468 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:06:23,469 [INFO] Stanford agent run successful.
+2026-01-21 11:09:07,410 [INFO] Received API request: Can you tell me about the classes related to history of South Africa
+2026-01-21 11:09:07,411 [INFO] Running support query for: Can you tell me about the classes related to history of South Africa
+2026-01-21 11:09:09,225 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:09:10,657 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:09:13,003 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:09:14,169 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:09:14,171 [INFO] Stanford agent run successful.
+2026-01-21 11:19:03,450 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:19:04,236 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:19:04,714 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:19:05,428 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:19:06,013 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:19:07,208 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:19:07,865 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:19:08,326 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:19:08,849 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:19:09,540 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:19:09,714 [INFO] MD knowledge base loaded successfully.
+2026-01-21 11:21:17,518 [INFO] Received API request: Can you tell me about the course regarding 19th century america?
+2026-01-21 11:21:17,528 [INFO] Running support query for: Can you tell me about the course regarding 19th century america?
+2026-01-21 11:21:18,619 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:21:19,422 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:21:21,597 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:21:22,799 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:21:22,803 [INFO] Stanford agent run successful.
+2026-01-21 11:25:16,407 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:17,214 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:18,425 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:18,923 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:19,730 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:20,292 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:20,798 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:21,644 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:22,156 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:22,604 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:23,150 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:23,921 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:24,630 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:25,160 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:25,619 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:26,159 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:26,801 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:27,535 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:28,079 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:28,530 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:29,192 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:29,949 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:30,527 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:31,078 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:31,837 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:32,570 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:33,144 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:33,614 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:34,081 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:34,644 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:35,225 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:35,857 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:36,410 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:36,896 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:37,437 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:37,897 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:38,753 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:39,352 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:39,830 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:40,822 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:41,459 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:42,158 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:42,960 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:43,529 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:44,330 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:45,215 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:45,705 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:46,321 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:46,829 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:47,394 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:48,085 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:48,757 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:49,214 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:49,777 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:50,448 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:51,472 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:52,052 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:52,803 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:53,372 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:53,950 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:54,448 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:54,983 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:55,514 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:56,209 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:56,724 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:57,198 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:57,684 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:58,289 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:58,792 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:25:59,500 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:00,025 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:01,049 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:01,557 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:02,142 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:02,598 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:03,454 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:03,961 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:04,443 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:05,015 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:05,771 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:06,268 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:07,754 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:08,424 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:26:08,857 [INFO] MD knowledge base loaded successfully.
+2026-01-21 11:26:43,777 [INFO] Received API request: can you tell me about courses about 19th century america?.
+2026-01-21 11:26:43,785 [INFO] Running support query for: can you tell me about courses about 19th century america?.
+2026-01-21 11:26:45,701 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:26:46,616 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:27:01,052 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:27:03,098 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:27:03,102 [INFO] Stanford agent run successful.
+2026-01-21 11:32:17,320 [INFO] Received API request: can you tell me course about Decolonizing Methodologies: Introduction to Native American Studies
+2026-01-21 11:32:17,321 [INFO] Running support query for: can you tell me course about Decolonizing Methodologies: Introduction to Native American Studies
+2026-01-21 11:32:19,209 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:32:20,027 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:32:34,873 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:32:37,027 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:32:37,029 [INFO] Stanford agent run successful.
+2026-01-21 11:36:25,914 [INFO] Received API request: Can you tell me courses about Decolonizing Methodologies
+2026-01-21 11:36:25,914 [INFO] Running support query for: Can you tell me courses about Decolonizing Methodologies
+2026-01-21 11:36:27,834 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:36:28,719 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:36:35,520 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:36:36,946 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:36:36,950 [INFO] Stanford agent run successful.
+2026-01-21 11:37:31,445 [INFO] Received API request: Can you suggest any course related to media and society.
+2026-01-21 11:37:31,446 [INFO] Running support query for: Can you suggest any course related to media and society.
+2026-01-21 11:37:32,957 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:37:33,885 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:37:49,968 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:37:51,494 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:37:51,497 [INFO] Stanford agent run successful.
+2026-01-21 11:44:33,106 [INFO] Received API request: can you list out the courses that examine how people’s identities and lived experiences influence social and political life?
+2026-01-21 11:44:33,107 [INFO] Running support query for: can you list out the courses that examine how people’s identities and lived experiences influence social and political life?
+2026-01-21 11:44:34,490 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:44:35,276 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:44:46,382 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:44:48,950 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:44:48,953 [INFO] Stanford agent run successful.
+2026-01-21 11:47:18,407 [INFO] Received API request: Are there Stanford courses that examine how identity, inequality, and social power shape personal experiences in the United States?
+2026-01-21 11:47:18,408 [INFO] Running support query for: Are there Stanford courses that examine how identity, inequality, and social power shape personal experiences in the United States?
+2026-01-21 11:47:19,278 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:47:20,084 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:47:28,759 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:47:31,498 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:47:31,500 [INFO] Stanford agent run successful.
+2026-01-21 11:49:15,850 [INFO] Received API request: can you give me course related to race and gender 
+2026-01-21 11:49:15,851 [INFO] Running support query for: can you give me course related to race and gender 
+2026-01-21 11:49:17,176 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:49:19,630 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:49:27,017 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:49:30,496 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:49:30,498 [INFO] Stanford agent run successful.
+2026-01-21 11:52:09,145 [INFO] Received API request: can you list all the classes that are based on the sex,gender,race and it should give me thoses classes in such a manner that they should not inteven the other classes timing
+2026-01-21 11:52:09,145 [INFO] Running support query for: can you list all the classes that are based on the sex,gender,race and it should give me thoses classes in such a manner that they should not inteven the other classes timing
+2026-01-21 11:52:10,641 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:52:11,665 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:52:23,143 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:52:26,605 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:52:26,616 [INFO] Stanford agent run successful.
+2026-01-21 11:55:22,775 [INFO] Received API request: can you give me a detailed schedule on how to study aerodynamics i am available only on monday and tuesday of each week and please suggest a class that is not overlapping the other class timing and date
+2026-01-21 11:55:22,775 [INFO] Running support query for: can you give me a detailed schedule on how to study aerodynamics i am available only on monday and tuesday of each week and please suggest a class that is not overlapping the other class timing and date
+2026-01-21 11:55:25,608 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:55:26,735 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 11:55:34,578 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 11:55:38,363 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 11:55:38,364 [INFO] Stanford agent run successful.

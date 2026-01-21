@@ -1,6 +1,7 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { finalize, lastValueFrom, Observable, Subject } from 'rxjs';
+import { environment } from '../../environments/environment';
 
 @Injectable({
   providedIn: 'root'
@@ -17,7 +18,8 @@ export class SampleAPIService {
   
   //private apiUrl = 'https://jsonplaceholder.typicode.com/posts'; // Sample API URL
   // http://localhost:8000/docs#/default/query_case_query_post
-  private apiUrl = 'http://localhost:8000/query'
+  // private apiUrl = 'http://localhost:8000/query'
+  private apiUrl = `${environment.apiUrl}/query`;
   //private apiUrlUpdate = 'http://localhost:9000/integrate'
   public loading: boolean = false; 
 
