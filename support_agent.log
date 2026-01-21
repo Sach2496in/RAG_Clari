@@ -1443,3 +1443,128 @@ DETAIL:  Key (id)=(output_1) already exists.
 2026-01-21 11:55:34,578 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2026-01-21 11:55:38,363 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
 2026-01-21 11:55:38,364 [INFO] Stanford agent run successful.
+2026-01-21 12:27:43,058 [INFO] Received API request: Show me classes that are specifically related to aerodynamics.
+2026-01-21 12:27:43,062 [INFO] Running support query for: Show me classes that are specifically related to aerodynamics.
+2026-01-21 12:27:44,627 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 12:27:45,589 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 12:27:47,434 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 12:27:49,887 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 12:27:49,887 [INFO] Stanford agent run successful.
+2026-01-21 12:29:42,289 [INFO] Received API request: Can you tell me courses focused on Nineteenth Century America.
+2026-01-21 12:29:42,290 [INFO] Running support query for: Can you tell me courses focused on Nineteenth Century America.
+2026-01-21 12:29:43,957 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 12:29:45,142 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 12:29:56,348 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 12:29:57,893 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 12:29:57,903 [INFO] Stanford agent run successful.
+2026-01-21 12:30:41,750 [INFO] Received API request: Can you tell me course that are specifically related to aerodynamics.
+2026-01-21 12:30:41,752 [INFO] Running support query for: Can you tell me course that are specifically related to aerodynamics.
+2026-01-21 12:30:43,663 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 12:30:44,647 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 12:30:47,196 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 12:30:50,620 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 12:30:50,622 [INFO] Stanford agent run successful.
+2026-01-21 12:31:17,372 [INFO] Received API request: Which courses explore the relationship between media and society?
+2026-01-21 12:31:17,372 [INFO] Running support query for: Which courses explore the relationship between media and society?
+2026-01-21 12:31:19,460 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 12:31:20,316 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 12:31:30,760 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 12:31:32,299 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 12:31:32,301 [INFO] Stanford agent run successful.
+2026-01-21 12:31:46,673 [INFO] Received API request: courses on aerospace
+2026-01-21 12:31:46,674 [INFO] Running support query for: courses on aerospace
+2026-01-21 12:31:47,813 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 12:31:48,884 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 12:31:50,730 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 12:31:53,289 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 12:31:53,291 [INFO] Stanford agent run successful.
+2026-01-21 14:18:19,296 [INFO] Received API request: can you tell me about american history
+2026-01-21 14:18:19,299 [INFO] Running support query for: can you tell me about american history
+2026-01-21 14:18:21,295 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:18:23,381 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 14:18:30,998 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:18:34,094 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 14:18:34,094 [INFO] Stanford agent run successful.
+2026-01-21 14:32:31,133 [INFO] Received API request: Can you please tell about the courses specifically related to aerodynamics
+2026-01-21 14:32:31,139 [INFO] Running support query for: Can you please tell about the courses specifically related to aerodynamics
+2026-01-21 14:32:34,777 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:32:36,230 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 14:32:42,168 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:32:44,010 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 14:32:44,014 [INFO] Stanford agent run successful.
+2026-01-21 14:41:26,045 [INFO] Received API request: Can you please tell about the courses focused on 19th Century America
+2026-01-21 14:41:26,046 [INFO] Running support query for: Can you please tell about the courses focused on 19th Century America
+2026-01-21 14:41:28,653 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:41:29,903 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 14:41:44,272 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:41:46,470 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 14:41:46,472 [INFO] Stanford agent run successful.
+2026-01-21 14:42:44,013 [INFO] Received API request: Can you please tell about the courses which explore the relationship between media and society?
+2026-01-21 14:42:44,013 [INFO] Running support query for: Can you please tell about the courses which explore the relationship between media and society?
+2026-01-21 14:42:46,466 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:42:47,524 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 14:43:02,261 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:43:03,676 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 14:43:03,684 [INFO] Stanford agent run successful.
+2026-01-21 14:43:55,086 [INFO] Received API request: Can you please tell about the courses specifically related to aerodynamics
+2026-01-21 14:43:55,088 [INFO] Running support query for: Can you please tell about the courses specifically related to aerodynamics
+2026-01-21 14:43:56,276 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:43:57,391 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 14:43:59,145 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:44:02,304 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 14:44:02,309 [INFO] Stanford agent run successful.
+2026-01-21 14:50:29,010 [INFO] Received API request: Can you please tell about the courses focused on 19th Century America
+
+2026-01-21 14:50:29,011 [INFO] Running support query for: Can you please tell about the courses focused on 19th Century America
+
+2026-01-21 14:50:30,435 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:50:31,136 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 14:50:38,503 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:50:41,057 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 14:50:41,060 [INFO] Stanford agent run successful.
+2026-01-21 14:51:12,048 [INFO] Received API request: Can you please tell about the courses which explore the relationship between media and society?
+2026-01-21 14:51:12,050 [INFO] Running support query for: Can you please tell about the courses which explore the relationship between media and society?
+2026-01-21 14:51:13,474 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:51:15,056 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 14:51:27,856 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:51:30,620 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 14:51:30,630 [INFO] Stanford agent run successful.
+2026-01-21 14:52:00,904 [INFO] Received API request: Can you please tell about the courses specifically related to aerodynamics
+
+2026-01-21 14:52:00,906 [INFO] Running support query for: Can you please tell about the courses specifically related to aerodynamics
+
+2026-01-21 14:52:01,703 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:52:02,367 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 14:52:05,133 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:52:08,815 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 14:52:08,819 [INFO] Stanford agent run successful.
+2026-01-21 14:56:35,868 [INFO] Received API request: Can you please tell about the courses focused on 19th Century America?
+2026-01-21 14:56:35,869 [INFO] Running support query for: Can you please tell about the courses focused on 19th Century America?
+2026-01-21 14:56:37,413 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:56:38,137 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 14:56:49,507 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:56:52,341 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 14:56:52,344 [INFO] Stanford agent run successful.
+2026-01-21 14:58:06,758 [INFO] Received API request: Can you please tell about the courses which explore the relationship between media and society?
+2026-01-21 14:58:06,760 [INFO] Running support query for: Can you please tell about the courses which explore the relationship between media and society?
+2026-01-21 14:58:08,448 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:58:09,479 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 14:58:18,110 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:58:23,552 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 14:58:23,555 [INFO] Stanford agent run successful.
+2026-01-21 14:59:17,881 [INFO] Received API request: Can you please tell about the courses specifically related to aerodynamics
+
+2026-01-21 14:59:17,883 [INFO] Running support query for: Can you please tell about the courses specifically related to aerodynamics
+
+2026-01-21 14:59:19,318 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:59:20,121 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 14:59:22,594 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 14:59:25,667 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 14:59:25,671 [INFO] Stanford agent run successful.
+2026-01-21 15:24:54,527 [INFO] Received API request: can you tell me more about course on health
+2026-01-21 15:24:54,528 [INFO] Running support query for: can you tell me more about course on health
+2026-01-21 15:24:56,849 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 15:24:58,582 [INFO] HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-01-21 15:25:10,675 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-21 15:25:13,738 [INFO] HTTP Request: POST https://api.phidata.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2026-01-21 15:25:13,748 [INFO] Stanford agent run successful.
