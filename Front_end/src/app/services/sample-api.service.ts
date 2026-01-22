@@ -1,31 +1,32 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { finalize, lastValueFrom, Observable, Subject } from 'rxjs';
-import { environment } from '../../environments/environment';
 
 @Injectable({
   providedIn: 'root'
 })
 export class SampleAPIService {
 
-
   private messageSource = new Subject<string>();
   message$ = this.messageSource.asObservable();
+
+  // ✅ Runtime API base URL (from index.html)
+  private apiBaseUrl: string = (window as any).__env?.API_BASE_URL;
+
+  public loading: boolean = false;
+
+  constructor(private http: HttpClient) {
+    if (!this.apiBaseUrl) {
+      console.error('API_BASE_URL is not defined. Check index.html runtime config.');
+    }
+  }
 
   sendMessage(message: string) {
     this.messageSource.next(message);
   }
-  
-  //private apiUrl = 'https://jsonplaceholder.typicode.com/posts'; // Sample API URL
-  // http://localhost:8000/docs#/default/query_case_query_post
-  // private apiUrl = 'http://localhost:8000/query'
-  private apiUrl = `${environment.apiUrl}/query`;
-  //private apiUrlUpdate = 'http://localhost:9000/integrate'
-  public loading: boolean = false; 
 
-  constructor(private http: HttpClient) {}
-
-  
+  // ✅ Correct API URL
+  private apiUrl = `${this.apiBaseUrl}/query`;
 
   getPosts(): Observable<any> {
     this.loading = true;
@@ -39,18 +40,20 @@ export class SampleAPIService {
       'Content-Type': 'application/json',
       'Accept': 'application/json'
     });
-  
+
     const payload = {
       message: data
     };
-  
+
     try {
-      const response = await lastValueFrom(this.http.post<any>(this.apiUrl, payload, { headers }));
-      console.log("Response:", response);
-      return response;  // Returns API response
+      const response = await lastValueFrom(
+        this.http.post<any>(this.apiUrl, payload, { headers })
+      );
+      console.log('Response:', response);
+      return response;
     } catch (error) {
-      console.error("Error:", error);
-      throw error;  // Rethrow error for handling
+      console.error('Error:', error);
+      throw error;
     }
   }
 
@@ -59,19 +62,16 @@ export class SampleAPIService {
       'Content-Type': 'application/json',
       'Accept': 'application/json'
     });
-  
-    const payload = {
-      ...data,  // Keeps original data values
-    };
-  
+
     try {
-      const response = await lastValueFrom(this.http.post<any>(this.apiUrl, payload, { headers }));
-      console.log("Response:", response);
-      return response;  // Returns API response
+      const response = await lastValueFrom(
+        this.http.post<any>(this.apiUrl, data, { headers })
+      );
+      console.log('Response:', response);
+      return response;
     } catch (error) {
-      console.error("Error:", error);
-      throw error;  // Rethrow error for handling
+      console.error('Error:', error);
+      throw error;
     }
   }
-  
 }
