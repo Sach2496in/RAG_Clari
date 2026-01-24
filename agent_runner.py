@@ -126,7 +126,9 @@ def run_support_query(user_message: str) -> str:
             knowledge=md_knowledge_base,
             search_knowledge=True,
             model=OpenAIChat(id="gpt-4o"),
-            instructions=Stanford_chatbot_instructions()
+            instructions=Stanford_chatbot_instructions(),
+            add_history_to_context=True,
+            num_history_runs=5
         )
         chatbot_output = stanford_agent.run(user_message).content.strip()
         logger.info("Stanford agent run successful.")
